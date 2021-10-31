@@ -1,0 +1,8 @@
+cmd制作图片一句话编码：copy 名字.jpg/b+名字.php/a 新名字.jpg
+
+
+绕过：
+1 js-删
+2 content type MIME --抓包，改
+3 黑名单 --php3 等价扩展名
+4 很长的黑名单 -- .htaccess
